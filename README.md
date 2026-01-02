@@ -1,5 +1,7 @@
-# 💫 About Me:
-👨‍💻 Frontend Web Developer | Crafting Responsive & Interactive UIs <br>Hi there! I'm passionate about building clean, efficient, and user-friendly web interfaces
+# 💫 About Me: Aspiring Data Analyst skilled in Python, SQL, and Excel with hands-on experience in data cleaning, visualization, and exploratory analysis.
+Built projects involving customer churn prediction, WhatsApp chat analytics, and travel recommendation systems. Strong analytical mindset,
+eager to apply data-driven solutions in real-world business problems.
+
 
 
 ## 🌐 Socials:
